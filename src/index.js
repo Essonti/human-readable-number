@@ -21,7 +21,7 @@ module.exports = function toReadable (number) {
             else if (result === 'two') {result = 'twelve'}
             else if (result === 'three') {result = 'thirteen'}
             else if (result === 'four') {result = 'fourteen'}
-            else if (result === 'five') {result = 'fiveteen'}
+            else if (result === 'five') {result = 'fifteen'}
             else if (result === 'six') {result = 'sixteen'}
             else if (result === 'seven') {result = 'seventeen'}
             else if (result === 'eight') {result = 'eighteen'}
